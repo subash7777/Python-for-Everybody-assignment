@@ -1,1 +1,1 @@
-# Python-for-Everybopdy-assignment
+# Python-for-Everybody-assignment
