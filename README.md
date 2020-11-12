@@ -1,2 +1,2 @@
 # Python-for-Everybody-assignment
-This file contains the various problems and solutions relating to the python data structures.
+This repository contains various problems and solutions relating to the python data structures.
